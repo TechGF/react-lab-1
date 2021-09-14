@@ -18,3 +18,10 @@ To start off and understand the desired toggle effect, try changing `let isSelec
 - Commit and push your code to your forked repository
 - Make a pull request back to this repository
     + Mention your Instructor and TA's names in your pull request message
+
+
+...
+
+## Credit
+
+This lab is a React 17 / ES6 update to the excellent tutorial found at: https://buildwithreact.com/
